@@ -1,13 +1,7 @@
-Admin:
-username:admin
-password:password123
+Admin pannel
+  Username : sabari
+  Password : 0452
 
-Users:
-user:ross
-password:password
-
-user:racheal
-password:password
-
-user:joey
-password:password
+ User pannel
+  Username : sabari
+  Password :1234
